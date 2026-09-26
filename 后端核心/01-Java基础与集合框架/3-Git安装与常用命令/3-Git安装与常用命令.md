@@ -15,7 +15,7 @@
 
 到 git-scm.com 下载 Git for Windows 并安装（一路默认），**新开**终端敲 `git --version` 验证
 
-![1790390311302](E:\library\learninghub\后端核心\01-Java基础与集合框架\3-Git安装与常用命令\assets\1790390311302.png)
+![1790390311302](./assets/1790390311302.png)
 
 ## 2.2 配置信息
 
@@ -57,15 +57,15 @@ git reset --hard <hash>  强制回退
 
 Conventional Commits 规范  
 
-```txt
+```text
 <type>[optional scope]: <description>  
 
-[optional body]  
+[optional body]
 
-[optional footer(s)]  
+[optional footer(s)] 
 ```
 
-**1. type ** 
+**1. type** 
 
 | type | 含义         |
 | :--- | :----------- |
@@ -79,7 +79,7 @@ Conventional Commits 规范
 |perf|performance 性能优化|
 |ci|CI流水线|
 
-**2. scope ** 
+**2. scope** 
 
 描述本次提交影响哪个模块  
 
@@ -88,15 +88,15 @@ feat(user): 新增用户登录接口
 fix(order): 修复订单计算bug  
 ```
 
-**3. description ** 
+**3. description** 
 
 简短描述  
 
-**4. body ** 
+**4. body** 
 
 正文  
 
-**5. footer **  
+**5. footer**  
 
 脚注，比如关联 issue  
 
@@ -116,7 +116,7 @@ Closes #45
 
 **1.练习仓库已推送到远端且 `git log --oneline` 能看到提交记录**  
 
-![1790392562266](E:\library\learninghub\后端核心\01-Java基础与集合框架\3-Git安装与常用命令\assets\1790392562266.png)
+![1790392562266](./assets/1790392562266.png)
 
 **2.讲出工作区/暂存区/本地仓库/远程仓库四者关系**  
 
@@ -125,7 +125,7 @@ Closes #45
 本地仓库就是文件夹中的.git文件夹，git的本地数据库，通过commit提交进入本地仓库  
 远程仓库就是在远端服务器上的git数据库，通过push推送进入远程仓库  
 
-**3.讲出 `add/commit/push/pull` 各自作用  **
+**3.讲出 `add/commit/push/pull` 各自作用**  
 
 add添加文件进入暂存区  
 commit提交修改进入本地仓库  
@@ -134,7 +134,7 @@ pull拉取远程仓库内容到本地仓库
 
 ## 四、问题  
 
-**1. git怎么撤销最后一次commit ** 
+**1. git怎么撤销最后一次commit** 
 
 ```txt
 // HEAD~1是上一个提交  
@@ -148,7 +148,7 @@ git reset --hard HEAD~1       全部撤销
 git revert HEAD               新建一个提交  
 ```
 
-**2. merge和rebase的区别 **  
+**2. merge和rebase的区别**  
 
 merge保留分叉  
 rebase是线性的  
