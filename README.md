@@ -11,3 +11,5 @@
     - [6-String、StringBuilder、StringBuffer.md](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/6-String%26StringBuilder%26StringBuffer/6-String%26StringBuilder%26StringBuffer.md)
     - [7-==与equals、hashCode约定](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/7-%3D%3D%20与%20equals、hashCode%20约定/7-%3D%3D%20与%20equals、hashCode%20约定.md)
     - [8-异常体系](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/8-异常体系/8-异常体系.md)
+    - [9-泛型擦除与通配符](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/9-泛型擦除与通配符/9-泛型擦除与通配符.md)
+
