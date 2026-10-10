@@ -13,4 +13,5 @@
     - [8-异常体系](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/8-异常体系/8-异常体系.md)
     - [9-泛型擦除与通配符](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/9-泛型擦除与通配符/9-泛型擦除与通配符.md)
     - [10-反射与注解](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/10-反射与注解/10-反射与注解.md)
+    - [11-ArrayList源码与扩容机制](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/11-ArrayList源码与扩容机制/11-ArrayList源码与扩容机制.md)
 
