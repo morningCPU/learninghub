@@ -1,4 +1,4 @@
-# 7-== 与 equals、hashCode 约定  
+# 07-== 与 equals、hashCode 约定  
 
 ## 一、学什么  
 

@@ -1,4 +1,4 @@
-# 6-String&StringBuilder&StringBuffer  
+# 06-String&StringBuilder&StringBuffer  
 
 ## 一、学什么  
 
@@ -50,7 +50,7 @@ System.out.println(s3.equals(s4)); //true
 + `==` 比较的是引用，`equals`比较的才是字符串内容  
 
 **3. 字符串拼接**  
-  
+
 **(1) 常量的拼接**  
 
 ```java  
@@ -251,6 +251,6 @@ System.out.println(ss == "ab"); //true
 如果常量池中没有，还会现在常量池中创建一个对象  
 
 **3. StringBuilder与StringBuffer的区别**  
-  
+
 主要是是StringBuffer加了synchronized保证线程安全  
 
