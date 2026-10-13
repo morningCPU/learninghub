@@ -14,4 +14,7 @@
     - [9-泛型擦除与通配符](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/9-泛型擦除与通配符/9-泛型擦除与通配符.md)
     - [10-反射与注解](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/10-反射与注解/10-反射与注解.md)
     - [11-ArrayList源码与扩容机制](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/11-ArrayList源码与扩容机制/11-ArrayList源码与扩容机制.md)
+    - [12-LinkedList源码与ArrayList对比](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/12-LinkedList源码与ArrayList对比/12-LinkedList源码与ArrayList对比.md)
+
+
 
