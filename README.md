@@ -16,6 +16,9 @@
     - [11-ArrayList源码与扩容机制](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/11-ArrayList源码与扩容机制/11-ArrayList源码与扩容机制.md)
     - [12-LinkedList源码与ArrayList对比](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/12-LinkedList源码与ArrayList对比/12-LinkedList源码与ArrayList对比.md)
     - [13-HashMap1.8底层结构与put全流程](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/13-HashMap1.8底层结构与put全流程/13-HashMap1.8底层结构与put全流程.md)
+    - [14-HashMap1.7vs1.8扩容rehash与高低位迁移](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/14-HashMap1.7vs1.8扩容rehash与高低位迁移/14-HashMap1.7vs1.8扩容rehash与高低位迁移.md)
+
+
 
 
 

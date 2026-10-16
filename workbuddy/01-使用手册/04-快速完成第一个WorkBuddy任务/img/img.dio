@@ -1,0 +1,63 @@
+<mxfile host="65bd71144e">
+    <diagram id="Cw7MnMp8dO3HSiaNKiEc" name="第 1 页">
+        <mxGraphModel dx="2502" dy="942" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-14" parent="1" style="whiteSpace=wrap;html=1;dashed=1;verticalAlign=top;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;约束&lt;/font&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="166" width="448" x="89" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="如何完成一个任务" vertex="1">
+                    <mxGeometry height="30" width="173" x="127" y="184" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-15" edge="1" parent="1" source="Cz31MM57hxpGXMq5Pxx3-2" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Cz31MM57hxpGXMq5Pxx3-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="目标&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="80" width="80" x="-167" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="1. 目标：想要完成一个任务首先就是要知道这个任务的目标是什么，对结果有什么预期&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.输入：要知道自己能够提供什么输入，并根据结果看一下需不需要补充什么输入&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. 动作：具体想要对输入有这么样的处理&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;4. 约束：规定哪些不能做有什么限制条件&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;5. 输出：要交付什么，输出结果放在哪里&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;6. 验收：怎么对结果进行评估看是否满足要求&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="205" width="337" x="231" y="609" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-6" edge="1" parent="1" source="Cz31MM57hxpGXMq5Pxx3-4" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Cz31MM57hxpGXMq5Pxx3-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="输入" vertex="1">
+                    <mxGeometry height="80" width="80" x="-30" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-9" edge="1" parent="1" source="Cz31MM57hxpGXMq5Pxx3-5" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="269.3394488166359" y="419.7058823529412" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="动作" vertex="1">
+                    <mxGeometry height="60" width="120" x="116" y="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="动作" vertex="1">
+                    <mxGeometry height="60" width="120" x="270" y="390" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="415.42" y="421.28" as="sourcePoint"/>
+                        <mxPoint x="494.34" y="421.28" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-19" edge="1" parent="1" source="Cz31MM57hxpGXMq5Pxx3-16" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="Cz31MM57hxpGXMq5Pxx3-18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="输出" vertex="1">
+                    <mxGeometry height="80" width="80" x="607" y="380" as="geometry"/>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-17" edge="1" parent="1" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Cz31MM57hxpGXMq5Pxx3-16" value="">
+                    <mxGeometry height="50" relative="1" width="50" as="geometry">
+                        <mxPoint x="537" y="420" as="sourcePoint"/>
+                        <mxPoint x="565" y="574" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="Cz31MM57hxpGXMq5Pxx3-18" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="验收" vertex="1">
+                    <mxGeometry height="80" width="80" x="757" y="380" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
