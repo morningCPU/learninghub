@@ -18,6 +18,7 @@
     - [13-HashMap1.8底层结构与put全流程](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/13-HashMap1.8底层结构与put全流程/13-HashMap1.8底层结构与put全流程.md)
     - [14-HashMap1.7vs1.8扩容rehash与高低位迁移](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/14-HashMap1.7vs1.8扩容rehash与高低位迁移/14-HashMap1.7vs1.8扩容rehash与高低位迁移.md)
     - [15-HashMap树化与红黑树为什么引入为什么不直接用](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/15-HashMap树化与红黑树为什么引入为什么不直接用/15-HashMap树化与红黑树为什么引入为什么不直接用.md)
+    - [16-ConcurrentHashMap1.8CAS+synchronized锁桶](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/16-ConcurrentHashMap1.8CAS+synchronized锁桶/16-ConcurrentHashMap1.8CAS+synchronized锁桶.md)
 
 
 
