@@ -21,6 +21,7 @@
     - [16-ConcurrentHashMap1.8CAS+synchronized锁桶](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/16-ConcurrentHashMap1.8CAS+synchronized锁桶/16-ConcurrentHashMap1.8CAS+synchronized锁桶.md)
     - [17-CopyOnWriteArrayList与并发集合对比](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/17-CopyOnWriteArrayList与并发集合对比/17-CopyOnWriteArrayList与并发集合对比.md)
     - [18-树集哈希与LRU映射](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/18-树集哈希与LRU映射/18-树集哈希与LRU映射.md)
+    - [19-PriorityQueue](https://github.com/morningCPU/learninghub/blob/main/后端核心/01-Java基础与集合框架/19-PriorityQueue/19-PriorityQueue.md)
 
 
 
